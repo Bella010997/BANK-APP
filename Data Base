@@ -1,0 +1,8 @@
+class BankSystem(object):
+
+  def dataBase(self):
+    usersNames = ['Daniel Duarte', 'Sofia Palma', 'Rene Cervantes', 'Julian Mezsa', 'Aunchisa Kim', 'Leonardo Picasso', 'Khan Trevor' ]
+    usersPins = ['1234', '0234', '5679', '6522', '0920', '4527', '2311']
+    userBalances = [23094, 38902, 67833, 83910, 38910, 10803, 39201]
+    
+    
